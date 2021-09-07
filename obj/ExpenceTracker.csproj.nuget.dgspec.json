@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\apps\\ExpenceTracker\\ExpenceTracker\\ExpenceTracker.csproj": {}
+    "d:\\apps\\ExpenceTracker\\ExpenceTracker\\ExpenceTracker.csproj": {}
   },
   "projects": {
-    "D:\\apps\\ExpenceTracker\\ExpenceTracker\\ExpenceTracker.csproj": {
+    "d:\\apps\\ExpenceTracker\\ExpenceTracker\\ExpenceTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\apps\\ExpenceTracker\\ExpenceTracker\\ExpenceTracker.csproj",
+        "projectUniqueName": "d:\\apps\\ExpenceTracker\\ExpenceTracker\\ExpenceTracker.csproj",
         "projectName": "ExpenceTracker",
-        "projectPath": "D:\\apps\\ExpenceTracker\\ExpenceTracker\\ExpenceTracker.csproj",
+        "projectPath": "d:\\apps\\ExpenceTracker\\ExpenceTracker\\ExpenceTracker.csproj",
         "packagesPath": "C:\\Users\\Elephant Solutions\\.nuget\\packages\\",
-        "outputPath": "D:\\apps\\ExpenceTracker\\ExpenceTracker\\obj\\",
+        "outputPath": "d:\\apps\\ExpenceTracker\\ExpenceTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
