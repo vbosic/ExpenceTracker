@@ -22,7 +22,6 @@ D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Microsoft.IdentityModel.P
 D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -61,3 +60,4 @@ D:\apps\ExpenceTracker\ExpenceTracker\obj\Debug\net5.0\ExpenceTracker.pdb
 D:\apps\ExpenceTracker\ExpenceTracker\obj\Debug\net5.0\ExpenceTracker.genruntimeconfig.cache
 D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\AutoMapper.dll
 D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\apps\ExpenceTracker\ExpenceTracker\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

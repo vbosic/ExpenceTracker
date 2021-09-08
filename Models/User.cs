@@ -16,5 +16,6 @@ namespace ExpenceTracker.Models
         public virtual Role Role {get; set;}
         public virtual ICollection<Income> Incomes {get; set;}
         public virtual ICollection<Outcome> Outcomes {get; set;}
+        public string Token { get; set; }
     }
 }

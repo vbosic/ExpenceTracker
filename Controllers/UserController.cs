@@ -49,5 +49,16 @@ namespace ExpenceTracker.Controllers
             var response = _mapper.Map<UserDTO>(user);
             return Ok(response);
         }
+
+        [HttpPost("authenticate")]
+        public IActionResult Authenticate([FromBody]AuthenticateModel model)
+        {
+            var user = _userRepository.Authenticate(model.Name, model.Password);
+            if (user == null){
+                return BadRequest(new {message = "UserName or password is incorrect"});
+            }
+
+            return Ok(user);
+        }
     }
 }

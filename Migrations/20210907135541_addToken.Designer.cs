@@ -4,14 +4,16 @@ using ExpenceTracker.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace ExpenceTracker.Migrations
 {
     [DbContext(typeof(ETContext))]
-    partial class ETContextModelSnapshot : ModelSnapshot
+    [Migration("20210907135541_addToken")]
+    partial class addToken
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -9,6 +9,7 @@ namespace ExpenceTracker.Interfaces
 {
     public interface IUsersService
     {
+        
         Task<BaseResponse<User>> ListAsync();
         Task<User> GetByIdAsync (int id);
     }

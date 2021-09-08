@@ -9,6 +9,7 @@ namespace ExpenceTracker.Interfaces
 {
     public interface IUserRepository
     {
+        User Authenticate(string username, string password);
         Task<BaseResponse<User>> ListUsersAsync();
         Task<User> FindByIdAsync(int id);
     }
